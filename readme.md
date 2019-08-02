@@ -12,6 +12,8 @@ The complete documentation is available on the [project's Documentation Site](ht
 ## What's new in v2.5
 * Adds support for TFS 2018.2 and 2018.3
 * Added support for Azure DevOps Server 2019
+* Added support for Azure DevOps Server 2019.0.1
+* Added support for Azure DevOps Server 2019.1
 
 ## What's new in v2.4
 * Added support for TFS 2015.4.1
